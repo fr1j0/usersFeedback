@@ -1,4 +1,4 @@
-# checkout.com technical challenge
+# User´s feedback app
 
 Components have been grouped by functionality.
 Data related to comments is stored in the Local Storage for the sake of simplicity.
